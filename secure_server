@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-# see zeromq docs ironhouse
+# see https://github.com/zeromq/pyzmq/blob/master/examples/security/ironhouse.py
 
 import logging
 import os
